@@ -1,5 +1,6 @@
 效果演示
 ![image](https://github.com/fanjiayu-kazuo/fcanvas/blob/main/%E6%BC%94%E7%A4%BA.gif)
+可以进行图片标注 或者图片热区域点击事件等操作，可以发挥想象力进行及时绘制的从操作
 ### 说明文档
 
 #### 引入
