@@ -1,5 +1,5 @@
 效果演示
-
+![image](https://github.com/fanjiayu-kazuo/fcanvas/blob/main/%E6%BC%94%E7%A4%BA.gif)
 ### 说明文档
 
 #### 引入
